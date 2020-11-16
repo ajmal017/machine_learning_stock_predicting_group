@@ -6,8 +6,7 @@
 
 * Stock Prices are influenced by a variety of factors, some quantifiable others random.
 
-![alt test](https://github.com/jeffhoffmanmba/inhabitable_exoplanets_grp_prjt_2/blob/main/images/nasa_habitable_zone.jpg)
-
+![alt test](https://github.com/jeffhoffmanmba/machine_learning_stock_predicting_group/blob/main/Images/stock-market-exchange.jpg)
 
 ## Your Task
 * Find a problem worth solving, analyzing, or visualizing. Use ML in the context of technologies learned.
@@ -27,7 +26,13 @@ Prepare a 10-minute presentation that lays out your theme, coding approach, data
 * Joonil Kim github.com/hydralisk1
 * Melissa Torres github.com/mtorres0388
 
-“If we can identify another Earth-like planet, it comes full circle, from thinking that everything revolves around our planet to 
-knowing that there are lots of other Earths out there.” Sara Seager, professor of planetary science and physics at MIT 
+* Conclusions
+	* as accurate as stock predictors may be, they will not alleviate the very human emotions of wanting to buy and sell inherent in owning stocks.
+		* Timeframe
+		* position size
+		* price volatility and risk
+		* too much of overall portfolio allocated to one stock or sector
+		* Random nature of stock market
+		* unexpected events such as pandemic, govt policy and new well funded competitors
 
-![alt test](https://github.com/jeffhoffmanmba/inhabitable_exoplanets_grp_prjt_2/blob/main/images/planetTypes_d3bchart.jpg)
+![alt test](https://github.com/jeffhoffmanmba/machine_learning_stock_predicting_group/blob/main/Images/APPL_LSTM.png)
