@@ -4,7 +4,8 @@
 
 ## Background
 
-* Stock Prices are influenced by a variety of factors, some quantifiable others random.
+* Stock Prices are influenced by a variety of factors, some quantifiable others random. 
+The more short term the prediction the more random factors may impact results of using prediction strategy.
 
 ![alt test](https://github.com/jeffhoffmanmba/machine_learning_stock_predicting_group/blob/main/Images/stock-market-exchange.jpg)
 
@@ -18,7 +19,9 @@ SQL Database, MongoDB Database, Google Cloud SQL, Amazon AWS, Tableau
 
 * Host application using Heroku or a tool of your choice.
 
-Prepare a 10-minute presentation that lays out your theme, coding approach, data munging techniques, and final visualization
+* Prepare a 15-minute data deep-dive or infrastructure walkthrough that shows
+machine learning in the context of what we’ve already learned.
+
 ### Group Members
 * Jeff Hoffman github.com/jeffhoffmanmba
 * Doug High github.com/dougbhigh
@@ -28,11 +31,7 @@ Prepare a 10-minute presentation that lays out your theme, coding approach, data
 
 * Conclusions
 	* as accurate as stock predictors may be, they will not alleviate the very human emotions of wanting to buy and sell inherent in owning stocks.
-		* Timeframe
-		* position size
-		* price volatility and risk
-		* too much of overall portfolio allocated to one stock or sector
-		* Random nature of stock market
-		* unexpected events such as pandemic, govt policy and new well funded competitors
+	* Factors such as timeframe, position size, volatility of the security, random nature of stocks and macro events such as the corona pandemic,
+goverment trade policy or new well funded competitors to market can have outsized affect on stocks.
 
 ![alt test](https://github.com/jeffhoffmanmba/machine_learning_stock_predicting_group/blob/main/Images/APPL_LSTM.png)
