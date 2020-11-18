@@ -38,3 +38,11 @@ machine learning in the context of what we’ve already learned.
 goverment trade policy or new well funded competitors to market can have outsized affect on stocks.
 
 ![alt test](https://github.com/jeffhoffmanmba/machine_learning_stock_predicting_group/blob/main/Images_for_Website/CVX_K_nearest_neighbor_pred_model.png)
+
+
+Data Sources: 
+* Kaggle
+* investPy
+* Quandl
+* Yahoo Finance
+* analyticsvidhya.com
