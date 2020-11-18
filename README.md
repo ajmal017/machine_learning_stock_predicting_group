@@ -7,7 +7,7 @@
 * Stock Prices are influenced by a variety of factors, some quantifiable others random. 
 The more short term the prediction the more random factors may impact results of using prediction strategy.
 
-![alt test](https://github.com/jeffhoffmanmba/machine_learning_stock_predicting_group/blob/main/Images/stock-market-exchange.jpg)
+![alt test](https://github.com/jeffhoffmanmba/machine_learning_stock_predicting_group/blob/main/Images_for_Website/Appl_rolling_20_50_200_day_ma.png)
 
 ## Your Task
 * Find a problem worth solving, analyzing, or visualizing. Use ML in the context of technologies learned.
@@ -22,6 +22,9 @@ SQL Database, MongoDB Database, Google Cloud SQL, Amazon AWS, Tableau
 * Prepare a 15-minute data deep-dive or infrastructure walkthrough that shows
 machine learning in the context of what we’ve already learned.
 
+![alt test](https://github.com/jeffhoffmanmba/machine_learning_stock_predicting_group/blob/main/Images_for_Website/MRK_LSTM_rms_2.1.png)
+
+
 ### Group Members
 * Jeff Hoffman github.com/jeffhoffmanmba
 * Doug High github.com/dougbhigh
@@ -34,4 +37,4 @@ machine learning in the context of what we’ve already learned.
 	* Factors such as timeframe, position size, volatility of the security, random nature of stocks and macro events such as the corona pandemic,
 goverment trade policy or new well funded competitors to market can have outsized affect on stocks.
 
-![alt test](https://github.com/jeffhoffmanmba/machine_learning_stock_predicting_group/blob/main/Images/APPL_LSTM.png)
+![alt test](https://github.com/jeffhoffmanmba/machine_learning_stock_predicting_group/blob/main/Images_for_Website/CVX_K_nearest_neighbor_pred_model.png)
