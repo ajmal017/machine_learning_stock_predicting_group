@@ -1,7 +1,8 @@
 Conclusions: 
 * The best Performing prediction Model based on Date and Closing Price was LSTM.  It had much lower RMSE scores.
+* Next steps: would create a dashboard with drop down menu of charts and LSTM prediction model 
 
-As accurate as machine intelligence stock predictors may be, they will not alleviate the very human 
+* As accurate as machine intelligence stock predictors may be, they will not alleviate the very human 
 emotions of wanting to buy and sell inherent in owning stocks:
 - Timeframe - buying and holding vs day or swing trading 
 - too much of overall portfolio allocated to one stock or sector
